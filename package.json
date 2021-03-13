@@ -1,0 +1,12 @@
+{
+  "name": "pdf2imagegit",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "downloadjs": "^1.4.7",
+    "pdf-lib": "^1.16.0",
+    "pdf2pic": "^2.1.4"
+  }
+}
